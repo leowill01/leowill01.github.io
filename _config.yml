@@ -4,7 +4,9 @@ title: MutDx
 
 # description: This is where we are going to post all of our exciting updates, so check back often!
 
+# THEMES # minimal minima midnight hacker dinky cayman 
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-slate # works
 # theme: hacker # fails
 theme: jekyll-theme-hacker
+logo: 'logo.png'
