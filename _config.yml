@@ -1,10 +1,10 @@
 # Site settings
-title: Great New Blog Title
+title: Our Company Updates
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Leonard Williams
+  email: leowill01@icloud.com
+description: "this is a site about our company."
 
 # Build settings
-remote_theme: jekyll/slate
-
+# remote_theme: jekyll/slate
+theme: slate
