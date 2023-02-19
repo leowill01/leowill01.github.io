@@ -10,5 +10,5 @@ title: MutDx
 # theme: hacker # fails
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-minima # fails? wouldnt refresh with new theme
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 logo: 'logo.png'
