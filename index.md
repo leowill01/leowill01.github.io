@@ -6,7 +6,7 @@ This is a link to [another file](another-file.md)
 
 Inserting the logo again:
 
-![Our logo](logo.png)
+<!-- ![Our logo](logo.png) -->
 
 Code block:
 
