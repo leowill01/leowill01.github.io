@@ -10,5 +10,5 @@ title: Informuta
 # theme: hacker # fails
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-minima # fails? wouldnt refresh with new theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 logo: 'logo-informuta.png'
